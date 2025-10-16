@@ -74,14 +74,6 @@ Implemented multiple models to predict monthly revenue:
 - Built a robust **forecasting pipeline** for monthly revenue.  
 - Multiple models implemented to showcase **trend + seasonality handling**.  
 - Clean, interactive visualizations suitable for **reporting or dashboards**.  
-- Can be extended into a **Streamlit dashboard** for portfolio demonstration.
 
 ---
-
-## 💼 Resume Line Example
-> Forecasted e-commerce monthly revenue using Linear Regression, ARIMA, SARIMA, and Exponential Smoothing; identified trends and seasonality to optimize stock and marketing strategies.
-
----
-
-- Showcase KPIs like last month revenue, growth %, top products, and forecast charts.  
 
